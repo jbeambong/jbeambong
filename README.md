@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jordan Béa Mbong 👋
 
-<!--
-**jbeambong/jbeambong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Growth marketer with an engineering and project-finance background.
+I build my own marketing tools and websites with AI (Lovable, Claude) — this GitHub is where they live.
 
-Here are some ideas to get you started:
+**Path:** Civil engineering → 5 years as financial controller on infrastructure projects in Cameroon and Haiti (incl. Razel) → Growth Marketing at Studely (fintech) → Co-founder of Studio Weka (social ads agency).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it is | Built with |
+|---|---|---|
+| [Personal website](https://github.com/jbeambong/jordanswebsite) · [live](https://jordanbeambong.com) | Portfolio, case studies and writing — bilingual EN/FR | Lovable, Claude, React, Tailwind |
+
+## Elsewhere
+
+🌐 [jordanbeambong.com](https://jordanbeambong.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jordanbeambong/) · ✍️ [Substack](https://substack.com/@jordanbeambong)
+
+📍 Paris area · 🇫🇷 French (native) · 🇬🇧 English (C1)
