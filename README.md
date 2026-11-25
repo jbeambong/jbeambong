@@ -1,9 +1,9 @@
 # Hi, I'm Jordan Béa Mbong 👋
 
-Growth marketer with an engineering and project-finance background.
-I build my own marketing tools and websites with AI (Lovable, Claude) — this GitHub is where they live.
+Growth marketer with an infrastructure project-finance background.
+I build my own marketing tools, landing pages and websites with AI (Lovable, Claude...), and this GitHub is where they live.
 
-**Path:** Civil engineering → 5 years as financial controller on infrastructure projects in Cameroon and Haiti (incl. Razel) → Growth Marketing at Studely (fintech) → Co-founder of Studio Weka (social ads agency).
+**Path:** Finance → 5 years as financial controller on infrastructure projects in Cameroon and Haiti (incl. Razel) → Growth Marketing at Studely (fintech) → Exploring other paths like GTM engineering.
 
 ## Projects
 
